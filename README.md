@@ -16,11 +16,6 @@ Hello, I'm Shivnarayan Gupta, a passionate data science student on a journey to 
 - 📊 Enthusiastic about creating insightful data visualizations.
 - 🧠 Keen on studying and applying advanced machine learning techniques.
 
-## My Goals
-
-- 🌟 Striving to make a positive impact by leveraging data for social and business challenges.
-- 📢 Sharing my knowledge and insights through blog posts and open-source contributions.
-- 🤝 Collaborating with like-minded individuals and data enthusiasts
 
 ## Get in Touch
 
